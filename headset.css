@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+p{
+    color: chartreuse;
+    padding: 30px;
+}
+#change{
+    color: red;
+}
+.division-design{
+    border: 5px solid yellowgreen;
+    border-radius: 10px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: olivedrab;
+}
+#heading-design{
+    text-align: center;
+}
+#author-set{
+    padding: 30px;
+}
